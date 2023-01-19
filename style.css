@@ -1,3 +1,19 @@
-body {
+h1{
+  text-align: center;
+  color: aqua;
+  font-style: oblique;
+  letter-spacing: 2px;
+  word-spacing: 10px;
+  text-shadow: 2px 2px 5px;
+}
 
+body{
+  background-color: #81559B;
+}
+img{
+  width:200px;
+}
+img:hover{
+  width:200px;
+    border: black dotted 3px;
 }
