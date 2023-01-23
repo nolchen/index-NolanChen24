@@ -6,14 +6,36 @@ h1{
   word-spacing: 10px;
   text-shadow: 2px 2px 5px;
 }
-
 body{
+  display: inline;
+  float:right;
+  padding: 11px;
   background-color: #81559B;
 }
+
 img{
   width:200px;
 }
 img:hover{
   width:200px;
     border: black dotted 3px;
+}
+nav{
+  position: fixed;
+  width: 50w;
+    background-color: grey;
+    left: 0;
+      right: 0;
+}
+
+
+a{
+  text decoration: none;
+  color: yellow;
+  
+}
+
+li{
+  display:inline;
+    float: right;
 }
