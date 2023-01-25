@@ -1,41 +1,82 @@
 h1{
   text-align: center;
-  color: aqua;
+  color: #111D13;
   font-style: oblique;
   letter-spacing: 2px;
   word-spacing: 10px;
   text-shadow: 2px 2px 5px;
+  font-size: 50px;
+  border: #4B4A67 solid 1px;
 }
 body{
-  display: inline;
-  float:left;
-  padding: 11px;
-  background-color: #81559B;
+  background-color: #8DB580;
 }
-
 img{
-  width:200px;
+  width:220px;
 }
 img:hover{
-  width:200px;
-    border: black dotted 3px;
+  width:230px;
+    border: black dotted 1px;
+  background-color: #C2CFB2;
 }
-nav{
+  table, th, td {
+  border: solid #4B4A67 1px;
+  border-collapse: collapse;
+  padding: 10px;
+    
+ }
+table {
+  width: 50%;
+}
+td:hover {
+  background-color: #FFB5C2;
+}
+tr:nth-child(even) {background-color: #C2CFB2;}
+
+tr:nth-child(odd) 
+{background-color: #A4DCBF;}
+
+nav {
+  list-style-type: none;
   position: fixed;
-  width: 50w;
-    background-color: grey;
-    left: 0;
-      right: 0;
+  background-color: #C2CFB2;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.navli {
+  display: inline;
+  float: right;
+  padding: 10px;
+  color: #4B4A67;
+}
+.big{
+  word-spacing: 2px;
+  text-shadow: 2px 2px 5px;
+  font-size: 20px;
+  border: #4B4A67 solid 1px;
+  background-color: #A4DCBF;
+}
+.big:hover{
+  background-color: #A4DCBF;
+}
+.navli:hover{
+  background-color: #FFB5C2;
 }
 
+a {
+  text-decoration: none;
+  color: #111D13;
+  font-size: 120%;
+}
 
-a{
-  text decoration: none;
-  color: yellow;
-  
+ol{
+  text-allign: center;
 }
 
 li{
-  display:inline;
-    float: right;
+  color: #4B4A67;
+}
+li:hover{
+  background-color: #C2CFB2;
 }
