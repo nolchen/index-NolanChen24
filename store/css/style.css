@@ -289,7 +289,7 @@ button {
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #5900ff;
 	color: #ffffff;
 	font-size: 16pt;
  }
@@ -299,7 +299,7 @@ button {
 	height: 50px;
 	color: #ffffff;
 	background-color: #ffffff;
-	color: #ff4e5b;
+	color: #5900ff;
 	font-size: 16pt;
 	margin-left: 25px;
  }
@@ -468,7 +468,7 @@ body{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #5900ff;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -519,7 +519,7 @@ body{
 	width: 50%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #5900ff;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -528,7 +528,7 @@ body{
 .gallery_section{
 	width: 100%;
 	float: left;
-	background-color: #ff4e5b;
+	background-color: #5900ff;
 	height: auto;
 
 }
@@ -634,7 +634,7 @@ body{
     text-align: center;
 }
 .main_bt {
-    background: #ff4e5b;
+    background: #5900ff;
     border: none;
     width: 170px;
     height: 58px;
@@ -747,7 +747,7 @@ a:hover {
     color: #ffffff;
     text-align: center;
     padding: 10px 0px;
-    background-color: #ff4e5b;
+    background-color: #5900ff;
     font-family: Poppins;
 }
 
@@ -777,7 +777,7 @@ a:hover {
 .subscribr_bt {
     width: 80%;
     float: right;
-    background-color: #ff4e5b;
+    background-color: #5900ff;
     font-size: 13pt;
     height: 50px;
     color: #ffffff;
